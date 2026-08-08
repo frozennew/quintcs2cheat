@@ -5,4 +5,4 @@ The project is coming to an end Thanks to everyone who was with us I'll be worki
 
 
 
-The cheat code stops updating completely while it is still active.
+The cheat  stops updating completely while it is still active.
